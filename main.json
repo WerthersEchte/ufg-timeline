@@ -1,0 +1,11 @@
+{
+    "title": {
+        "text": {
+          "headline": "Test This",
+          "text": "<p>a test</p>"
+        }
+    },
+    "events": [
+        EVENTS
+    ]
+}
