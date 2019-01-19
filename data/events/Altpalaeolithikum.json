@@ -1,0 +1,18 @@
+{
+    "start_date": {
+      "year": "-2500000"
+    },
+    "end_date": {
+      "year": "-300000"
+    },
+    "text": {
+      "headline": "Altpaläolithikum: Die ersten Menschen",
+      "text": "<h2>Anthropogenese</h2> <p> Früheste Spuren menschlicher Entwicklung in Ost- und Südafrika (Rift-Valley) </p>"
+    },
+    "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Great_Rift_Valley_map-de.svg",
+        "caption": "Verlauf des Großen Afrikanischen Grabenbruchs",
+        "credit": "wikipedia.org",
+        "link": "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Afrikanischer_Grabenbruch"
+    }
+}
