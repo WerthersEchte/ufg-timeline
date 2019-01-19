@@ -5,6 +5,9 @@
           "text": "<p>a test</p>"
         }
     },
+    "eras": [
+        ERAS
+    ],
     "events": [
         EVENTS
     ]
