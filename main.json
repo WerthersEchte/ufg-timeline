@@ -5,6 +5,7 @@
           "text": "<p>a test</p>"
         }
     },
+    scale: 'cosmological',
     "eras": [
         ERAS
     ],
