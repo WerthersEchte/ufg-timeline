@@ -9,4 +9,52 @@
       "headline": "Paläolithikum",
       "text": "<p>Altsteinzeit</p>"
     }
+},
+{
+    "start_date": {
+      "year": "-2500000"
+    },
+    "end_date": {
+      "year": "-300000"
+    },
+    "text": {
+      "headline": "Altpaläolithikum",
+      "text": "<p>Frühe Altsteinzeit</p>"
+    }
+},
+{
+    "start_date": {
+      "year": "-300000"
+    },
+    "end_date": {
+      "year": "-35000"
+    },
+    "text": {
+      "headline": "Mittelpaläolithikum",
+      "text": "<p>Mittlere Altsteinzeit</p>"
+    }
+},
+{
+    "start_date": {
+      "year": "-35000"
+    },
+    "end_date": {
+      "year": "-12500"
+    },
+    "text": {
+      "headline": "Jungpaläolithikum",
+      "text": "<p>Jüngere Altsteinzeit</p>"
+    }
+},
+{
+    "start_date": {
+      "year": "-12500"
+    },
+    "end_date": {
+      "year": "-9600"
+    },
+    "text": {
+      "headline": "Spätpaläolithikum",
+      "text": "<p>Späte Altsteinzeit</p>"
+    }
 }
