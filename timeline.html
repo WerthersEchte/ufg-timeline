@@ -1,40 +1,10 @@
-<!-- 1 -->
 <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
-<!-- 2 -->
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
 <div id='timeline-embed' style="width: 100%; height: 600px"></div>
 
-<!-- 3 -->
 <script type="text/javascript">
-/*   
-var events = '';
-        
-fetch('http://api.github.com/repos/WerthersEchte/ufg-timeline/contents/data')
-    .then(response => { 
-        console.log(response);
-        for (var pair of response.headers.entries()) {
-            console.log(pair[0]+ ': '+ pair[1]);
-        }
-        if (response.status !== 200) {
-            return Promise.reject(new DOMException('Shit!', 'Kacke'));
-        }
-        return response.json();} )
-    .then(blobs => Promise.all(blobs.filter(blob => blob.type === 'file' && blob.name.endsWith('.json')).map(blob => fetch(blob.url))))
-    .then(responses => Promise.all(responses.map(response => response.json())))
-    .then(files => Promise.all( files.map( file => window.atob(file.content))))
-    .then(json => json.reduce( (all, current) => all + current + '\n,', ''))
-    .then(text => {events = text.slice(0, -1); return fetch('https://api.github.com/repos/WerthersEchte/ufg-timeline/contents/main.json?ref=master');})
-    .then(response => response.json())
-    .then(main_file => window.atob(main_file.content))
-    .then(main_json => main_json.replace('EVENTS', events))
-    .then(text => { console.log(text); timeline = new TL.Timeline('timeline-embed', JSON.parse(text));})
-    .catch(function(error) {
-        console.log(error);
-    });
-	
-*/
 
 var timelineOptions = {
     timenav_position: 'top'
@@ -57,13 +27,5 @@ fetch('https://api.github.com/graphql', {
         return response.json();} )
     .then(json => json.data.main.object.text.replace('ERAS', stitch( json.data.eras.object.entries )).replace('EVENTS', stitch( json.data.events.object.entries )))
     .then(text => { timeline = new TL.Timeline('timeline-embed', JSON.parse(text), timelineOptions);})
-	
-// The TL.Timeline constructor takes at least two arguments:
-// the id of the Timeline container (no '#'), and
-// the URL to your JSON data file or Google spreadsheet.
-// the id must refer to an element "above" this code,
-// and the element must have CSS styling to give it width and height
-// optionally, a third argument with configuration options can be passed.
-// See below for more about options.
-// timeline = new TL.Timeline('timeline-embed', 'main.json');
+
 </script>
