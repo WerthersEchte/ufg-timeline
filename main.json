@@ -1,8 +1,8 @@
 {
     "title": {
         "text": {
-          "headline": "Einführung in die Ur- und Frühgeschichte",
-          "text": "<p>Alle wichtigen Zeiträume, Kulturen und Ereignisse der Ur- und Frühgeschichte</p>"
+          "headline": "Einführung in die prähistorische Archäologie",
+          "text": "<p>Alle wichtigen Zeiträume, Kulturen und Ereignisse der Ur- und Frühgeschichte</p> <h2>Was ist Ur- und Frühgeschichte</h2> <p> <b>Urgeschichte</b> ist der Teil der Menschheitsgeschichte vor dem Beginn schriftlicher Überlieferungen. <br /> <i><u>Archäologische Bodenfunde</u></i> sind die Quelle des Wissens. </p> <p> <b>Frühgeschichte</b> ist der Teil der Menschheitsgeschichte in der <i><u>erste Schriftquellen</u></i> auftauchen. <br /> <i><u>Archäologische Bodenfunde</u></i> sind die Hauptquelle des Wissens. </p> <h2>Ende der Urgeschichte / Beginn der Frühgeschichte</h2> <table style="width:100%"> <tr> <td>Agypten, Irak</td> <td style="text-align: right">3000 v. Chr</td> </tr> <tr> <td>Grichenland</td> <td style="text-align: right">1700 / 750 v. Chr</td> </tr> <tr> <td>Italien</td> <td style="text-align: right">500 v. Chr</td> </tr> <tr> <td>Süddeutschland</td> <td style="text-align: right">0 n. Chr</td> </tr> <tr> <td>Dänemark</td> <td style="text-align: right">1000 n. Chr</td> </tr> <tr> <td>Osteuropa</td> <td style="text-align: right">1200 n. Chr</td> </tr> </table>"
         }
     },
     "scale": "cosmological",
