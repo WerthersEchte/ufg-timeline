@@ -1,0 +1,19 @@
+{
+    "start_date": {
+      "year": "-3900000"
+    },
+    "end_date": {
+      "year": "-2900000"
+    },
+    "text": {
+      "headline": "Australopithecus afarensis (Fundort Hadar",
+      "text": "<ul> <li>In Süd- und Ostafrika nachweisbare \"affenartige\" Hominidenform</li> <li>Bipedische Fortbewegung</li> <li>Werkzeuggebrauch unklar</li> </ul>"
+    },
+    "media": {
+        "url": "http://media.cleveland.com/science_impact/photo/map-revisedjpg-d52db59af182afb2.jpg",
+        "caption": "The hominoids are descendants of a common ancestor",
+        "credit": "cleveland.com",
+        "link": "https://www.cleveland.com/science/index.ssf/2010/06/partial_skeleton_from_lucys_sp.html",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Australopithecus_afarensis-MGL_95215-P5030041-white.jpg"
+    }
+}
