@@ -1,0 +1,16 @@
+{
+    "start_date": {
+      "year": "-2150000"
+    },
+    "text": {
+      "headline": "Homo rudolfensis (Fundort: Knoobi Fora, Kenia)",
+      "text": "<ul> <li>erste Werkzeuge</li> <li>bis zu 1.55 m groß</li>  <li>600 - 800 ccm Gehirnvolumen</li> </ul>"
+    },
+    "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homo_rudolfensis.jpg",
+        "caption": "Reconstruction of the KNM ER 1470 skull ",
+        "credit": "wikipedia.org",
+        "link": "https://en.wikipedia.org/wiki/Homo_rudolfensis",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/43/Paranthropus_aethiopicus.JPG"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "start_date": {
+      "year": "-2500000"
+    },
+    "text": {
+      "headline": "Paranthropus aethiopicus",
+      "text": "<ul> <li>große Backenzähne und kräftiger Kiefer -> Pflanzenfresser</li> <li>Knochenkamm</li> </ul>"
+    },
+    "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Paranthropus_aethiopicus.JPG",
+        "caption": "Paranthropus aethiopicus skull ("Black Skull") replica ",
+        "credit": "wikipedia.org",
+        "link": "https://en.wikipedia.org/wiki/Paranthropus_aethiopicus",
+        "thumbnail": "http://www.bradshawfoundation.com/origins/skulls/paranthropus_aethiopicus.gif"
+    }
+}
